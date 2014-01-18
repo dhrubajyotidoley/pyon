@@ -15,3 +15,7 @@ So, to make this application run on your PC you have to install:
 1. pyside
 2. qt
 3. Django
+
+
+Installing Django
+pip install Django==1.6.1
